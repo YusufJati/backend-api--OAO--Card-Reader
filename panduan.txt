@@ -1,0 +1,10 @@
+API-KEY : backend-api
+API-KEY : purelife
+
+Cara Run: npm run dev (rekomendasi)
+Cara Run: npm start (jika ingin langsung run tanpa nodemon)
+
+lakukan npm install terlebih dahulu untuk menginstall semua package yang dibutuhkan
+jika ingin test API, bisa menggunakan Postman atau alat lainnya
+
+Port yang digunakan adalah 8080 (jangan lupa buat .env file dengan isi PORT=8080)
